@@ -1,0 +1,3 @@
+echo Installing linux modules ...
+dpkg -i /root/*linux*modules*.deb
+busybox modprobe e1000
