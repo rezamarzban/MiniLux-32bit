@@ -1,7 +1,11 @@
 # MiniLux-32bit
 simple Minimum Linux shell script initramfs and rootfs images builder with Windows 32bit, OpenGL and network support from official x86 sources
 
-MiniLux, Building from latest official sources and booting just in one minute!
+MiniLux, Building and launching linux from latest official sources and booting just in one minute!
+
+MiniLux, Linux x86 on ARM devices (Android phones and tablets, Raspberries Pi 1,2,3,...).
+
+MiniLux, Quick way to Windows x86 98,XP, 7, ... .
 
 Making and launching instruction:
 
