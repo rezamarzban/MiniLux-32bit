@@ -31,7 +31,7 @@ cp *.deb ubunturootfs/root/
 cp mod.sh ubunturootfs/
 cp config.sh ubunturootfs/
 cp devpts.sh ubunturootfs/
-cp remake.sh ubunturootfs/
+cp swap.sh ubunturootfs/
 cp OpenGL.sh ubunturootfs/
 mke2fs -L '' -N 0 -O ^64bit -d "ubunturootfs" -m 5 -r 1 -t ext2 "hard.img" 1G
 
