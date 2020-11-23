@@ -1,6 +1,8 @@
 # MiniLux-32bit
 simple Minimum Linux shell script initramfs and rootfs images builder with Windows 32bit, OpenGL and network support from official x86 sources
 
+MiniLux, Building from latest official sources and booting just in one minute!
+
 Making and launching instruction:
 
 1- Run "git clone https://github.com/marzban2030/MiniLux-32bit".
