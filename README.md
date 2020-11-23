@@ -23,6 +23,6 @@ Making and launching instruction:
 
 7- Run "bash /OpenGL.sh" in the real root filesystem mode to installing OpenGL and GLX if you need these.
 
-8- Run "apt install wine-stable" in the real root filesystem mode to installing windows 32bit in linux if you need this. Do not forget: 1- Increase hard.img size from 1G to 2G in the make.sh and remake.sh files at making images stage. 2- apt should be updated by running "apt-get update" before running this command.
+8- Run "apt install wine-stable" in the real root filesystem mode to installing windows 32bit in linux if you need this. Do not forget: 1- Increase hard.img size from 1G to 2G in the make.sh and remake.sh files at making images stage. 2- apt should be updated by running "apt-get update" in real root filesystem mode before running this command.
 
 9- Run "busybox reboot" in the real root filesystem mode to exiting.
