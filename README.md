@@ -19,6 +19,6 @@ Making and launching instruction:
 
 7- Run "bash /OpenGL.sh" in the real root filesystem mode to installing OpenGL and GLX if you need these.
 
-8- Run "apt install wine-stable" in the real root filesystem mode to installing windows 32bit in linux if you need this.
+8- Run "apt install wine-stable" in the real root filesystem mode to installing windows 32bit in linux if you need this. Do not forget that apt should be updated by running "apt-get update" before running this command.
 
 9- Run "busybox reboot" in the real root filesystem mode to exiting.
