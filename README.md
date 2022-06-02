@@ -9,7 +9,7 @@ MiniLux, Quick way to Windows x86 98,XP, 7, ... .
 
 Install required packages by running below command at Ubuntu shell:
 
-sudo apt install wget
+sudo apt install wget cpio
 
 Making and launching instruction:
 
