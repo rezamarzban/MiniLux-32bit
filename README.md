@@ -7,6 +7,10 @@ MiniLux, Linux x86 on ARM devices (Android phones and tablets, Raspberries Pi 1,
 
 MiniLux, Quick way to Windows x86 98,XP, 7, ... .
 
+Install required packages by running below command at Ubuntu shell:
+
+sudo apt install wget
+
 Making and launching instruction:
 
 1- Run "git clone https://github.com/marzban2030/MiniLux-32bit".
