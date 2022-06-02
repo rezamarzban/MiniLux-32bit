@@ -9,7 +9,7 @@ MiniLux, Quick way to Windows x86 98,XP, 7, ... .
 
 Install required packages by running below command at Ubuntu shell:
 
-sudo apt install wget r-base-core cpio
+sudo apt install wget r-base-core cpio tar
 
 Making and launching instruction:
 
