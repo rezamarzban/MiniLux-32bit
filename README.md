@@ -29,7 +29,7 @@ Making and launching instruction:
 
 5- Run "sh /rootfs.sh" in the RAM filesystem mode to changing to real root filesystem mode.
 
-6- Run "bash /config.sh" in the real root filesystem mode at every boot to configuring the system and network. It takes more time to be completed at first run. If you see an error about network find from internet and change the "linux-modules_*.deb" package URL at "make.sh" file manually corresponding to the downloaded latest Linux kernel version and CPU architecture, Then delete everything and do a clean install again.
+6- Run "bash /config.sh" in the real root filesystem mode at every boot to configuring the system and network. It takes more time to be completed at first run. If you see an error about network find and change to the correct "linux-modules_*.deb" package URL (from internet) at "make.sh" file manually corresponding to the downloaded latest Linux kernel version and CPU architecture, Then delete everything and do a clean install again.
 
 7- Run "bash /OpenGL.sh" in the real root filesystem mode to installing OpenGL and GLX if you need these.
 
